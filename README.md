@@ -2,7 +2,7 @@
 
 Todo App is just like other todo apps but the difference is this app can track the time of your task.
 
-#Features
+# Features
 - Add task
 - On single tap on task : Timer will start
 - Tap on another task : Timer will start and stop other task's timer
