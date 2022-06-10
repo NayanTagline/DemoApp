@@ -1,6 +1,6 @@
 # DemoApp(Todo App)
 
-Todo App is just like other todo apps but the difference is this app can track the time of your task.
+This Demo Todo App is just like other todo apps but the difference is this app can track the time of your task.
 
 # Features
 - Add task
